@@ -1,0 +1,8 @@
+fastapi
+uvicorn[standard]
+sgp4
+numpy
+httpx
+python-dotenv
+pydantic
+ibm-watsonx-ai
